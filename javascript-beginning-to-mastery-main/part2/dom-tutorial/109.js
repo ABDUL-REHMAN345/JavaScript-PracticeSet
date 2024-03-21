@@ -6,7 +6,7 @@
 // we can't use forEach method to iterate through HTMLCollection
 // simple for loop 
 // for of loop 
-// forEach 
+// forEach => iss ma ni use kr skty
 
 // for(let i=0; i< navItems.length; i++){
 //     // console.log(navItems[i]);
@@ -40,7 +40,8 @@
 // console.log(Array.isArray(navItems));
 // simple for loop 
 // for of loop 
-// forEach 
+// forEach => iss ma yeh use kr skty hain
+
 // for(let i=0; i< navItems.length; i++){
 //     // console.log(navItems[i]);
 //     const navItem = navItems[i];

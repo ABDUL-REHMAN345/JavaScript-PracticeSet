@@ -1,5 +1,6 @@
-// get multiple elements using getElements by class name 
-// get multiple elements items using querySelectorAll
+// get multiple elements using getElements by class name => this is array like object use index and length
+
+// get multiple elements items using querySelectorAll => this is array like object use index and length
 // const navItems = document.getElementsByClassName("nav-item"); // HTMLCollection
 // console.log(navItems);
 // console.log(Array.isArray(navItems));

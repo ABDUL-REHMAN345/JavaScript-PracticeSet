@@ -16,4 +16,5 @@ const todoList = document.querySelector(".todo-list");
 
 
 // when you should use it , when you should not
+
 // todoList.insertAdjacentElement("afterbegin", '<li>Hi</li>')

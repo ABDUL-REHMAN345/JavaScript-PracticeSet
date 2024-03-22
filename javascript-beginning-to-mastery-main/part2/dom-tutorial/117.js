@@ -1,15 +1,30 @@
-// some old methods to support poor IE
+// some old methods to support poor IE(Internet Explorer)
 // appendChild;
 // insertBefore;
 // replaceChild;
-// removeChild
+// removeChild;
 // const ul = document.querySelector(".todo-list");
 
-// new element
+
+// appendChild;
+
+// ul.appendChild(li);
+
+// insertBefore:
+
 // const li = document.createElement("li");
 // li.textContent = "new todo";
-
-
 // const referenceNode = document.querySelector(".first-todo");
+// ul.insertBefore(referenceNode);
 
+
+
+// new element => replaceChild
+
+// const li = document.createElement("li");
+// li.textContent = "new todo";
+// const referenceNode = document.querySelector(".first-todo");
+// ul.replaceChild(li , referenceNode);
+
+// removeChild => Baqqi sarra code phella walla mean (replaceChild)walla and phr yeh line jo neecha likhi hai
 // ul.removeChild(referenceNode);

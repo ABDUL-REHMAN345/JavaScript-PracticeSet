@@ -13,6 +13,10 @@
 // const todoList = document.querySelector(".todo-list");
 // todoList.prepend(newTodoItem);
 // console.log(newTodoItem);
+
+
+
+// remove:
 // const todo1 = document.querySelector('.todo-list li');
 // todo1.remove();
 // console.log(todo1)
@@ -23,6 +27,7 @@
 // const newTodoItem = document.createElement("li");
 // newTodoItem.textContent = "Teach students";
 // const todoList = document.querySelector(".todo-list");
+// todoList.before(newTodoItem)
 // todoList.after(newTodoItem);
 
 

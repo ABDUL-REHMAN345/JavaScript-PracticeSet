@@ -8,7 +8,7 @@ sectionTodo.classList.remove("container");
 // console.log(ans);
 // sectionTodo.classList.toggle("bg-dark");
 // sectionTodo.classList.toggle("bg-dark");
-// const header = document.querySelector(".header");
 
+// const header = document.querySelector(".header");
 // header.classList.add("bg-dark");
-console.log(header.classList);
+// console.log(header.classList);

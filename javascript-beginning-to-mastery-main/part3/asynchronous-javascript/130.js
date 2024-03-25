@@ -9,7 +9,7 @@
 
 // console.log("script end");
 
-// setTimeout
+// setTimeout ==> As a function ly ga input mean callback function lyga input r second time lyga ka kitni dair bdd function call krna hai:
 
 console.log("script start");
 

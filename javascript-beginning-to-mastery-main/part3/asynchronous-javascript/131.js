@@ -21,3 +21,12 @@ button.addEventListener("click", () => {
 });
 
 console.log(intervalId);
+
+
+// Math.floor Examples: 
+console.log(Math.floor(4.9)); // Output: 4
+console.log(Math.floor(7.2)); // Output: 7
+console.log(Math.floor(-3.5)); // Output: -4
+console.log(Math.floor(-2.8)); // Output: -3
+console.log(Math.floor(10)); // Output: 10
+

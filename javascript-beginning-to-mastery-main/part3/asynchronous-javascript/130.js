@@ -22,5 +22,6 @@ for (let i = 1; i < 100; i++) {
 }
 console.log("settimeout id is ", id);
 console.log("clearing time out");
+// id hamare pass tbb use hotti hai jb hamen iss function ko run ni krna tho hm (clearTimeout) method use krta hain...
 clearTimeout(id);
 console.log("Script end");

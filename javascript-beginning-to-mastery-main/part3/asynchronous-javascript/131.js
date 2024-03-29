@@ -1,4 +1,6 @@
 // setInterval
+
+
 // console.log("script start");
 // // setInterval(() => {
 // //   console.log(total);

@@ -11,6 +11,18 @@
 
 // setTimeout ==> As a function ly ga input mean callback function lyga input r second time lyga ka kitni dair bdd function call krna hai:
 
+
+// First Program in Video:
+
+// console.log("script Start");
+// for(let i=0;i<100;i++){
+//   console.log("Inside For Loop");
+// }
+// console.log("script end");
+
+
+// setTimeout: yeh hamare pass aik function letta hai r sath ma time be btanna parta hai:
+
 console.log("script start");
 
 const id = setTimeout(() => {

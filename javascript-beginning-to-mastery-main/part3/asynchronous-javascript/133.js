@@ -47,6 +47,19 @@ const heading10 = document.querySelector(".heading10");
   
 // },1000)
 
+
+// Phella yeh code tha:
+
+// function changeText((element, text, color, time){
+// setTimeout(()=>{
+//   element.textContent=text;
+//   element.style.color=color;
+// },time)
+// }
+// changeText(heading1,"one","violet",1000)
+
+
+
 function changeText(element, text, color, time, onSuccessCallback, onFailureCallback) {
   setTimeout(()=>{
     if(element){

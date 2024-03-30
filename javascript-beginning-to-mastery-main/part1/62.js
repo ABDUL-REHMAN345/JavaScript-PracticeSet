@@ -25,6 +25,7 @@ console.log(userCart.every(pp));
 
 
 // Arrow function y kia hai iss sawal ko:
+
 // const ans = userCart.every((cartItem)=>cartItem.price < 30000);
 // console.log(ans);
 

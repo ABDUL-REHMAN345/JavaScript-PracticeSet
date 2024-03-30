@@ -37,7 +37,7 @@ const person = {
 // person.set([1, 2, 3], "onetwothree");
 // person.set({ 1: "one" }, "onetwothree");
 // console.log(person);
-// c/onsole.log(person.get(1));
+// console.log(person.get(1));
 // for (let key of person.keys()) {
 //   console.log(key, typeof key);
 // }

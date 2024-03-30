@@ -1,4 +1,5 @@
 // Different object creation:
+
 // function (that function create object)
 // 2.) add key value pair
 // 3.) object ko return krega

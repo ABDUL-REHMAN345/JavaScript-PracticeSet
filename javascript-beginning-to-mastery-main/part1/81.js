@@ -2,6 +2,8 @@ function hello(){
     console.log("hello world");
 }
 
+// const hello={key1:"value1"};
+
 // if(hello.prototype){
 //     console.log("present")
 // }else{

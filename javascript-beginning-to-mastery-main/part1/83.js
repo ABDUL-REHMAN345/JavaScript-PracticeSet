@@ -1,7 +1,7 @@
 // new keyword => empty object create krey ga => second empty object ko return krey ga 
-// 1.) this = {}
+// 1.) this = {} => empty object create kr rahha hai
 // 2.) return {} 
-//
+// 3.) Object.create(createUser.prototype);  =>> yeh kmm khud krey ga new keyword
 
 // __proto__ 
 // // official ecmascript document

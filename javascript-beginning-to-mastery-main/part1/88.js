@@ -31,7 +31,8 @@ class Dog extends Animal{
 
 // C++ , C# ,java in language ma Object ko instance be boll dey hain
 
-// object / instance 
+// object / instance
+// instance => Objects ko hum instance be bolta hai
 
 const tommy = new Dog("tommy", 3,45);
 console.log(tommy.run());

@@ -1,4 +1,4 @@
-// compilation/compilation phase: => Tokenizing/lexing => parsing => code execution
+// compilation/compilation phase: => Tokenizing/lexing => parsing => code generation
 // parsing(yeh aik AST bnatta hai(Abstract Syntax Tree))=>wo code jo lexing matlb tuqro ma bnna hai unko smj ka aik Abstract Syntax Tree ma convert krtta hai.
 
 

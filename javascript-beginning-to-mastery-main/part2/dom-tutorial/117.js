@@ -15,8 +15,7 @@
 // const li = document.createElement("li");
 // li.textContent = "new todo";
 // const referenceNode = document.querySelector(".first-todo");
-// ul.insertBefore(referenceNode);
-
+// ul.insertBefore(li,referenceNode);=>>is line ka matlb hai ka reference child ki jagah li walla text aa jhy ga
 
 
 // new element => replaceChild

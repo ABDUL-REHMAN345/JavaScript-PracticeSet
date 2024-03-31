@@ -11,6 +11,7 @@ function randomColorGenerator(){
 
 mainButton.addEventListener("click",()=>{
     const randomColor2 = randomColorGenerator();
+    // body.style.backgroundColor=randomColor;
     // console.log(randomColor2)
     body.style.backgroundColor = randomColor2;
     currentColor.textContent = randomColor2;

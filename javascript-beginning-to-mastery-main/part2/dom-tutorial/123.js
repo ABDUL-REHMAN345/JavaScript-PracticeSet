@@ -10,7 +10,7 @@
 // jab bhi mai kisi bhi element pe event listener add hoga 
 // js Engine --- line by line execute karta hai 
 // browser ---- js Engine + extra features 
-// browser ----- js Engine + WebApi
+// browser ----- js Engine + WebApi(Application Programming Interface)
 
 // jab browser ko pata chala ki user ne event perform kia 
 // jo hum listen kar rahe hai 
@@ -28,3 +28,6 @@ for(let button of allButtons){
         console.log(e.currentTarget);
     })
 }
+
+// Target mean: Ka kon sa element target howa hai
+// currentTarget mean: ka kon sy element py currentTarget lgayeh hai 

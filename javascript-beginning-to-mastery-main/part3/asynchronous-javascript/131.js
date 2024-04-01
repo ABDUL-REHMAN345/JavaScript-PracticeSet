@@ -3,9 +3,13 @@
 
 // console.log("script start");
 // // setInterval(() => {
+  // more delay this code toh neecha walli line:
+  // let total=0;
   // for(lwt i=0;i<1000000000;i++){
 // continue;
+// total+=i;
   // }
+  // console.log(total);
 // //   console.log(Math.random());
 // // }, 500);
 // console.log("script end");

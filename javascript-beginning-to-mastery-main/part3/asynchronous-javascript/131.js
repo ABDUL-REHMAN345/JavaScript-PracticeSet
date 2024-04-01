@@ -3,10 +3,14 @@
 
 // console.log("script start");
 // // setInterval(() => {
-// //   console.log(total);
+  // for(lwt i=0;i<1000000000;i++){
+// continue;
+  // }
 // //   console.log(Math.random());
 // // }, 500);
 // console.log("script end");
+
+
 const body = document.body;
 const button = document.querySelector("button");
 const intervalId = setInterval(() => {

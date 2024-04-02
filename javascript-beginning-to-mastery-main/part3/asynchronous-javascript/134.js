@@ -19,6 +19,7 @@ const friedRicePromise = new Promise((resolve,reject)=>{
 // consume 
 // how to consume 
 
+// Promise are in Micro task queue
 friedRicePromise.then(
     // jab promise resolve hoga 
     (myfriedRice)=>{

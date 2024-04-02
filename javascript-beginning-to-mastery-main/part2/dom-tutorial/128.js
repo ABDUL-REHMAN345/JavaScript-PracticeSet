@@ -1,3 +1,4 @@
+// Event Bubbling/Propogation , Event Capturing , Event Delegation
 // console.log("hello world");
 
 const grandparent = document.querySelector(".grandparent");

@@ -1,5 +1,6 @@
 const allButtons = document.querySelectorAll(".my-buttons button");
 // console.log(allButtons);
+
 // Phella walla code video ma yeh tha:
 
 // firstButton.addEventListner("click",function(){

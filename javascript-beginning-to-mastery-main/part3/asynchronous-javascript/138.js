@@ -24,6 +24,18 @@ function changeText(element, text, color, time) {
     })  
   }
 
+
+  // Phella yeh code likha tha video ma
+// const returnPromises=changeText(heading1, "one", "red", 1000);
+// returnPromises.then(()=>{
+//   return changeText(heading2, "two", "green", 2000)
+
+// })
+// .then()
+
+//Bdd ma yeh walla code likha tha video ma 
+
+
 changeText(heading1, "one", "red", 1000)
   .then(()=>changeText(heading2, "two", "purple", 1000))
   .then(()=>changeText(heading3, "three", "green", 1000))

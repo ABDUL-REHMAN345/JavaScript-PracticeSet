@@ -33,6 +33,10 @@ button.addEventListener("click", () => {
 console.log(intervalId);
 
 
+
+
+// The Math.floor() method in JavaScript returns the largest integer less than or equal to a given number. Essentially, it rounds down a number to the nearest integer.
+
 // Math.floor Examples: 
 console.log(Math.floor(4.9)); // Output: 4
 console.log(Math.floor(7.2)); // Output: 7

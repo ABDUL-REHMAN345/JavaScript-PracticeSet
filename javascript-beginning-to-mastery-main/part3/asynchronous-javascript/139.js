@@ -1,6 +1,6 @@
 // BASIC THEORY 
 
-// AJAX : asynchronous javascript and XML
+// AJAX : asynchronous javascript and XML(eXtensible Markup Language)
 
 // HTTP request =>(Hyper Text Transfer Protocol)
 
@@ -19,7 +19,7 @@
 // without interfering with the display and 
 // behaviour of the existing page
 
-//Actuall ma ap kch be use kr skty ho ap plain text use kr skty ho....Binary files client r server ka beach ma mov e kr skty ho...ap CSD Files ka sath km kr skty ho magar mostly hum JSON he use krta hai
+//Actuall ma ap kch be use kr skty ho ap plain text use kr skty ho....Binary files client r server ka beach ma move kr skty ho...ap CSD Files ka sath km kr skty ho magar mostly hum JSON he use krta hai
 
 // We don't use data in XML format anymore. 
 // we use JSON now. 

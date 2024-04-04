@@ -10,6 +10,7 @@
 //     // console.log(`${number}*2=${number*2});
 // }
 // // console.log(myFunc(numbers[0],0))
+
 // for(let i=0;i<numbers.length;i++){
 //         myFunc(numbers[i],i)
 // }

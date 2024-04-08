@@ -2,15 +2,16 @@
 
 // AJAX : asynchronous javascript and XML(eXtensible Markup Language)
 
-// HTTP request =>(Hyper Text Transfer Protocol)
+// HTTP request =>(Hyper Text Transfer Protocol)=> Client or Server ka beach ma baat krna ka Communicate krna ka tareeqa hai 
 
-// is a set of "web development techniques" => kch techniques hai 
+// => is a set of "web development techniques" => kch techniques hai 
 // using many web technologies on the "client-side " => jo ka hum client side py use krta hai 
 // to create asynchronous web applications. 
 
 
-
-// => Data Read,Write and Get from server to use HTTP Request yeh kmm asynchronous he hotta hai hamari file challti rehti hai file ma km bnd ni rukta yeh km Browser krta rehta hai asynchronous neecha walli 3 lines ka yeh matlb hai....
+// For Example:
+//1.  => Data Update,retrieve from server to use HTTP Request....
+//2. => yeh kmm asynchronous he hotta hai hamari file challti rehti hai file ma km bnd ni rukta yeh km Browser krta rehta hai asynchronous neecha walli 3 lines ka yeh matlb hai....
 
 // Simple word ma kahen tho yeh km bakground ma challta rehta hai r yeh km Browser krta hai 
 
@@ -21,6 +22,7 @@
 
 //Actuall ma ap kch be use kr skty ho ap plain text use kr skty ho....Binary files client r server ka beach ma move kr skty ho...ap CSD Files ka sath km kr skty ho magar mostly hum JSON he use krta hai
 
+// XML is a data Format => yeh actuall ma data format hai
 // We don't use data in XML format anymore. 
 // we use JSON now. 
 

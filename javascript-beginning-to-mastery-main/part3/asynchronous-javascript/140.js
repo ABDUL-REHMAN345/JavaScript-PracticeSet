@@ -48,3 +48,4 @@ xhr.send();
 // Request Headers: Mean hum na cheezain jo hai Request Headers ma wo sath ma bheji hai
 
 // Browser By Default GET Request krta hai
+// In JSON file not use methods 

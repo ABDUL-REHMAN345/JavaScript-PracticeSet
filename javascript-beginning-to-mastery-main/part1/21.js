@@ -14,3 +14,5 @@ console.log(total);
 
 // let total = (num*(num+1))/2;
 // console.log(total);
+
+// Output is... 5050

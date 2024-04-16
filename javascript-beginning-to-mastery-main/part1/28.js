@@ -1,4 +1,7 @@
 // primitve vs reference data types
+
+// Primitive data types => yeh call stack ma store hotta hai r memory ma alg alg yeh store hotta hai r yeh memory ma ziadda space ni letty mtlb ka call stack jo memory hai usma jagah nni letty ziadda.....
+
 // let num1 = 6;
 // let num2 = num1;
 // console.log("value is num1 is", num1);

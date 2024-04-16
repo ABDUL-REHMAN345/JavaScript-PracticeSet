@@ -6,7 +6,7 @@
 
 // let fruits = ["apple", "mango", "grapes"];
 // let numbers = [1,2,3,4];
-// let mixed = [1,2,2.3, "string", null, undefined,{a:"1"},[1,2,3]];
+// let mixed = [1,2,2.3, "string", null, undefined,{a:"1"},[1,2,3]]; => Reference and Primitive dataTypes both are allowed in Array....
 // console.log(mixed);
 // console.log(numbers);
 // console.log(fruits[2]);

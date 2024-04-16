@@ -23,7 +23,7 @@ function hello(){
 // function provides more usefull properties.
 
 // function hamen free space dein gy ==> free space Object hai r wo hain "prototype": 
-// console.log(hello.prototype); // {}/constructor
+console.log(hello.prototype); // {}/constructor
 
 
 // only functions provide prototype property

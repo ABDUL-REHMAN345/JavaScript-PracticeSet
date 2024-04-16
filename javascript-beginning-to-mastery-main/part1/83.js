@@ -1,13 +1,14 @@
 // new keyword => empty object create krey ga => second empty object ko return krey ga 
 // 1.) this = {} => empty object create kr rahha hai
 // 2.) return {} 
-// 3.) Object.create(createUser.prototype);  =>> yeh kmm khud krey ga new keyword
+// 3.) Object.create(createUser.prototype);  =>> yeh kmm khud krey ga new keyword Object.create mean ka yeh chain bn rai hai manual hum yeh km krr rahha hai "proto" ki value ko set kr rhy hai yeh kmm new keyword khud kr dy ga...Mtlb ka "proto" ki value ko "prototype" ka equal set kr dy ga automatically....
 
 // __proto__ 
 // // official ecmascript document
 // [[prototype]]
 
-// constructor function 
+// constructor function => yeh hamara lye object construct kr rahha hai neecha dekh skty hai use1,user2,user3....
+
 // function CreateUser(firstName, lastName, email, age, address){
 //     this.firstName = firstName;
 //     this.lastName = lastName;

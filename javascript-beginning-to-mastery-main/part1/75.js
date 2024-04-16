@@ -4,6 +4,7 @@ const user1 = {
     firstName : "harshit",
     age: 8,
     about: () => {
+        // console.log(this);
         console.log(this.firstName, this.age);
     }   
 }

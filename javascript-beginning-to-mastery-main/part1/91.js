@@ -35,3 +35,25 @@ const person1 = new Person("harshit", "sharma", 8);
 // const info = Person.classInfo();
 // console.log(person1.desc);
 // console.log(info);
+
+
+
+// Not related to this topic Related to object topic:
+
+// Three types of create object:
+
+// Step 1:
+
+// const obj=new Object({
+//     name:"harshit"
+// })
+
+// step 2:
+
+// const obj2=new obj2();
+
+// step 3:
+
+// const obj3={
+//     name:"harshit";
+// }

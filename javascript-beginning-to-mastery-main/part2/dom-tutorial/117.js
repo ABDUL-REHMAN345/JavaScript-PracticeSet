@@ -27,7 +27,7 @@
 // const referenceNode = document.querySelector(".first-todo");
 // ul.replaceChild(li , referenceNode);
 
-// =>>is line ka matlb hai ka "reference Node" ki jagah "li" walla replace ho jhy ga
+// =>>is line ka matlb hai ka "li" jo hai wo "reference Node" ko replace kr dy ga
 
 
 

@@ -20,6 +20,6 @@ const todoList = document.querySelector(".todo-list");
 // todoList.innerHTML = "<li>New Todo 2 </li>" => ye km apkr skty hain ager apny pura innerHTML change krna hai tho
 
 
-// , when you should not
+// ,when you should not
 
 // todoList.insertAdjacentElement("afterbegin", '<li>Hi</li>') => yeh line next topic ki hai iss topic ka related ni hai

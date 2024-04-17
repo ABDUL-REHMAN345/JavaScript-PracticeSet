@@ -16,7 +16,7 @@
 // li.textContent = "new todo";
 // const referenceNode = document.querySelector(".first-todo");
 // ul.insertBefore(li,referenceNode);
-// =>>is line ka matlb hai ka "li" sy phella "reference child" walla text aa jhy ga
+// =>>is line ka matlb hai ka reference child ki jagah li walla text aa jhy ga
 
 
 // new element => replaceChild
@@ -25,10 +25,6 @@
 // li.textContent = "new todo";
 // const referenceNode = document.querySelector(".first-todo");
 // ul.replaceChild(li , referenceNode);
-// =>>is line ka matlb hai ka "li" ki jagah "reference child" walla replace ho jhy ga
 
-
-
-// removeChild => Baqqi sarra code phella walla mean (replaceChild)walla and phr yeh line jo neecha likhi hai phella code ma "li" line ki zaroorat ni hai ager "li" ko delete krna hai tho phr rakho otherwise rehna doh...
-
+// removeChild => Baqqi sarra code phella walla mean (replaceChild)walla and phr yeh line jo neecha likhi hai
 // ul.removeChild(referenceNode);

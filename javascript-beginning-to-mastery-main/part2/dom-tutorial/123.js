@@ -29,5 +29,5 @@ for(let button of allButtons){
     })
 }
 
-// Target mean: Ka kon sa element target/trigger howa hai
+// Target mean: Ka kon sa element target howa hai
 // currentTarget mean: ka kon sy element py currentTarget lgayeh hai 

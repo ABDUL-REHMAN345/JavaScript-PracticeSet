@@ -9,12 +9,17 @@ const todoList = document.querySelector(".todo-list");
 // Add New List
 // todoList.innerHTML=todoList.innerHTML + "<li> New Todo</li>"
 
-// todoList.innerHTML = "<li>New Todo 2 </li>"
+// todoList.innerHTML = "<li>New Todo 2 </li>" => ye km apkr skty hain ager apny pura innerHTML change krna hai tho
 // todoList.innerHTML += "<li>New Todo </li>";
 // todoList.innerHTML += "<li>teach students </li>";
 
 
 
-// when you should use it , when you should not
+// when you should use it
 
-// todoList.insertAdjacentElement("afterbegin", '<li>Hi</li>')
+// todoList.innerHTML = "<li>New Todo 2 </li>" => ye km apkr skty hain ager apny pura innerHTML change krna hai tho
+
+
+// , when you should not
+
+// todoList.insertAdjacentElement("afterbegin", '<li>Hi</li>') => yeh line next topic ki hai iss topic ka related ni hai

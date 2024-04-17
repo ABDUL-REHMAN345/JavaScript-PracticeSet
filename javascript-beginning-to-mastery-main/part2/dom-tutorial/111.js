@@ -18,6 +18,7 @@ const bodyElementNode = htmlElementNode.childNodes[2];
 
 // body.style.color = "#efefef";
 // body.style.backgroundColor = "#333"
+
 // const body = document.body
 // body.style.color = "#efefef";
 // body.style.backgroundColor = "#333"

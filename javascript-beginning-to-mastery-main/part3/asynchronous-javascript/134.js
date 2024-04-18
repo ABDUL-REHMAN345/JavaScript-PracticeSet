@@ -8,11 +8,13 @@ const friedRicePromise = new Promise((resolve,reject)=>{
     if(bucket.includes("vegetables")&& bucket.includes("salt") && bucket.includes("rice")){
         resolve({value:"friedrice"});
     }else{
+        // reject(new Error("could not do it")); =>Phella yeh line thi...
+
         reject("could not do it");
     }
 })
 
-// produce /matlb create kia
+// produce / matlb create kia....
 
 
 
@@ -22,9 +24,11 @@ const friedRicePromise = new Promise((resolve,reject)=>{
 // Promise are in Micro task queue
 friedRicePromise.then(
     // jab promise resolve hoga 
+    // Iss bracket ma jo value likhi hai uska matlb hai jo promise honna ka bdd value jo ahey ge....
     (myfriedRice)=>{
     console.log("lets eat ", myfriedRice);
     }
+    // jb Promise reject ho ga
     ).catch(
     (error)=>{
         console.log(error)

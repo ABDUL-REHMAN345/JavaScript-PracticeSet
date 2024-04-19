@@ -44,7 +44,7 @@ xhr.send();
 // side info jo video ma btai ge hai:
 
 // General:jo console ka hotta hai wo btatah hai ka kiss link py request ki kon sa method use kia GET,POST etc.....
-// Response Headers:Mean iss ma meta information hotti hai jo server hamen povide krta hai
+// Response Headers:Mean iss ma meta information hotti hai jo server hamen provide krta hai
 // Request Headers: Mean hum na cheezain jo hai Request Headers ma wo sath ma bheji hai
 
 // Browser By Default GET Request krta hai

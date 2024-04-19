@@ -1,3 +1,5 @@
+// Using Promise with XHR:
+
 const URL = "https://jsonplaceholder.typicode.com/posts";
 
 function sendRequest(method, url) {
@@ -20,6 +22,11 @@ function sendRequest(method, url) {
         xhr.send();
     })
 }
+
+// Phella video ma yeh walla code tha...
+
+// const whatIsThis=sendRequest("GET", URL);
+// console.log(whatIsThis); => Yeh line hamen promise return krey ge...
 
 sendRequest("GET", URL)
     .then(response => {

@@ -8,7 +8,7 @@ let num2 = "7";
 
 // console.log(num1<num2);
 
-// == (value check datatype not check) vs === 
+// == (value check datatype not check) vs === (value & dataType both check)
 // console.log(num1 === num2);
 
 // != vs !==

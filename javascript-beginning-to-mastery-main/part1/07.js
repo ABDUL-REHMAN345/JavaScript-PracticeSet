@@ -24,6 +24,8 @@ let firstName="Rehman";
 let firstName1="Harshit"
 
 let newString = firstName1.slice(0,4); // hars
+let newString1 = firstName1.slice(1); // ehman
+
 console.log(newString);
 
 // let myString = "Hello";

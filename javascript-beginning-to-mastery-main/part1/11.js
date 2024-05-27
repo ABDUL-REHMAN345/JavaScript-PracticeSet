@@ -10,7 +10,7 @@
 // console.log(myVariable);
 // myVariable = "harshit";
 // console.log(myVariable, typeof myVariable);
-// console.log(typeof null);
+// console.log(typeof null); /**{Object} This is Error or Bug in JavaScript*/
 // bug , error 
 
 // NaN

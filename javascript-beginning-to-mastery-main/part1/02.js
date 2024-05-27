@@ -5,6 +5,7 @@
 // variables can store some information
 // we can use that information later
 // we can change that information later
+// Variables name are case sensitive jessa rakha name waissa he print krwatta howa rakhna hai
 
 // declare a variable 
 

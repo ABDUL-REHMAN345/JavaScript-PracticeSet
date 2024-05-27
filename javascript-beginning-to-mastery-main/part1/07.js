@@ -20,8 +20,10 @@
 // start index 
 // end index
 
-let firstName="Rehman"
-let newString = firstName.slice(1); // hars
+let firstName="Rehman";
+let firstName1="Harshit"
+
+let newString = firstName1.slice(0,4); // hars
 console.log(newString);
 
 // let myString = "Hello";

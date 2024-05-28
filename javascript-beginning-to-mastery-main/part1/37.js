@@ -9,4 +9,5 @@ const person = {
 
 console.log(person["person hobbies"]);
 person[key] = "harshitvashisth@gmail.com";
+// person.key = "harshitvashisth@gmail.com";
 console.log(person);

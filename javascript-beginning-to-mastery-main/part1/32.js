@@ -9,7 +9,7 @@ const fruits2 = [];
 // console.log(fruits2);
 
 // for in loop:
-for(fruit in fruits){
+for(let fruit in fruits){
     fruits2.push(fruits[fruit].toUpperCase())
 }
 console.log(fruits2)

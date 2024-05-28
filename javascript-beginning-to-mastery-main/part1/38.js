@@ -10,6 +10,8 @@ const person = {
 // Object.keys 
 
 // for(let key in person){
+    // console.log(person.key); Output Undefine Iss lye ka wo object ma dekha ga k koi key name ka variable hai nai hai tho undefined krr dy ga iterate n krey ga...
+    
 //     // console.log(`${key} : ${person[key]}`); //Template String
 //     console.log(key," : " ,person[key]);
 // }

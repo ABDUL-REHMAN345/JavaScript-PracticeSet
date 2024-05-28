@@ -4,5 +4,6 @@
 
 const fruits = ["apple", "mango"]; // 0x11
 // fruits[0]="kella"
+// fruits=["kella","Banana"]; /**{Not Allowed} */
 fruits.push("banana");
 console.log(fruits);

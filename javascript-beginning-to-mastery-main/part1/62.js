@@ -1,5 +1,5 @@
 // every method
-// callback function krey ga true/false(boolean)
+// callback function return krey ga true/false(boolean)
 
 // const numbers = [2,4,6,9,10];
 
@@ -24,7 +24,7 @@ function pp(cartItem){
 console.log(userCart.every(pp));
 
 
-// Arrow function y kia hai iss sawal ko:
+// Arrow function sy kia hai iss sawal ko:
 
 // const ans = userCart.every((cartItem)=>cartItem.price < 30000);
 // console.log(ans);

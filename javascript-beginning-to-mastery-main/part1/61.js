@@ -6,7 +6,7 @@ function isLength3(string){
     return string.length === 3;
 }
 // console.log(isLength3("dog"));
-console.log(myArray.find(isLength3))
+console.log(myArray.find(isLength3));
 
 // const ans = myArray.find((string)=>string.length===3);
 // console.log(ans);

@@ -11,7 +11,7 @@ const array2 = [5, 6, 7];
 const obj1 = {
   key1: "value1",
   key2: "value2",
-  // key1: "value59"//==> bd walli phella i ge key obj ma same ki print ni hotti jessy ka iss ma key1 two time hai iss lye key 1 aik br ahey ge second walli 
+  // key1: "value59"//==> bd walli phella i ge key obj ma same ki print ni hotti jessy ka iss ma key1 two time hai iss lye key 1 aik br ahey ge second walli Object ka case ma aik key aik sy ziadda ni ho skti
 };
 const obj2 = {
   key1: "valueUnique",

@@ -19,8 +19,10 @@ const user2 = {
 }
 
 //ager function howa tb yeh ho ga => 
-user1.about.call(user2,"guitar","hobbies");  
+user1.about.call(user2,"guitar","hobbies"); 
 
+
+// Ager Method bahir likho gy tho phr essy print krwao gy... 
 // call
 // about.call(user1,"guitar", "bach");
 

@@ -1,4 +1,5 @@
 // callback functions 
+// koi be function As a argument lyga koi be function r ussa call kr dy ga this is callback function...
 
 function myFunc2(name){
     console.log("inside my func 2")

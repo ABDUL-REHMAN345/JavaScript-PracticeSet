@@ -46,7 +46,7 @@ const users = [
 
 // for(let user of users){
 //     console.log(user.firstName);
-// }
+// } /**Yeh km kr skta tha lakin hum "forEach" method lga dia  */
 
 
 //Practice:

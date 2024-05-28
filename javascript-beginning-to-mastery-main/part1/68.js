@@ -44,7 +44,7 @@ const person = {
 
 // for(let [key, value] of person){
 //     // console.log(Array.isArray(key));
-//     console.log(key, value)
+//     console.log(key, value);
 // }
 
 // const person1 = {
@@ -77,6 +77,10 @@ const myMap = new Map([
 
 
 
+// The Array.from method in JavaScript creates a new, shallow-copied Array instance from an array-like or iterable object.
+
 const newArray = Array.from(myMap.values());
+// const newArray = Array.from(myMap.keys()); /**{For Key Find Use this Method} */
+
 
 console.log(newArray);

@@ -1,7 +1,7 @@
 // param destructuring 
 
-// object 
-// react 
+// object ka sath use hotta hai
+// react ma bht ziadda use hotta hai
 
 const person = {
     firstName: "harshit",

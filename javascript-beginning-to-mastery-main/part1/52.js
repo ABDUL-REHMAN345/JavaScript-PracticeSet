@@ -8,6 +8,9 @@
 
 // myFunc(3,4,5,6,7,8,9);
 
+
+// Sarry Number ka sum krna hai apny essa function bnahen with rest operation
+
 function addAll(...numbers){
     let total = 0;
     for(let number of numbers){

@@ -10,7 +10,8 @@ const todoList = document.querySelector(".todo-list");
 // todoList.innerHTML=todoList.innerHTML + "<li> New Todo</li>"
 
 // todoList.innerHTML = "<li>New Todo 2 </li>" => ye km apkr skty hain ager apny pura innerHTML change krna hai tho
-// todoList.innerHTML += "<li>New Todo </li>";
+// todoList.innerHTML += "<li>New Todo </li>";  /**todoList.innerHTML = todoList.innerHTML + "<li>New Todo</li>";*/ /**=> Both lines are same jessy be krna chahta hai kr skty hai apki marzi hai */
+
 // todoList.innerHTML += "<li>teach students </li>";
 
 

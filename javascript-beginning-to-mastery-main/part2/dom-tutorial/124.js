@@ -20,3 +20,5 @@ console.log("value of outer variable is ", outerVar);
 console.log("script end !!!!!")
 
 // JS Engine + WebAPI (Application-Program-Interface)
+
+// "Event loop" jo hai "Btn's" ko stop rakhey ga jbb tkk apka phella walla code run ni hotta tb tk...jo "Btn's" hogy wo "callback queue" ma "event loop" rook ka rakhey ga...

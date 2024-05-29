@@ -8,8 +8,9 @@
 // remove
 
 // const newTodoItem = document.createElement("li");
-// // const newTodoItemText = document.createTextNode("Teach students");
-// newTodoItem.textContent = "Teach students";
+// const newTodoItemText = document.createTextNode("Teach students"); /**=>yeh likho  */
+// newTodoItem.textContent = "Teach students"; /**=> yeh yeh likho */
+// newTodoItem.append(newTodoItemText);
 // const todoList = document.querySelector(".todo-list");
 // todoList.prepend(newTodoItem);
 // console.log(newTodoItem);

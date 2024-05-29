@@ -4,7 +4,7 @@
 // console.log(sectionTodo.classList);
 // sectionTodo.classList.add('bg-dark');
 sectionTodo.classList.remove("container");
-// const ans = sectionTodo.classList.contains("container");
+// const ans = sectionTodo.classList.contains("container"); /**{"contain" mean ka check krna ka koi class exsist krti ka nai} */
 // console.log(ans);
 // sectionTodo.classList.toggle("bg-dark");
 // sectionTodo.classList.toggle("bg-dark");

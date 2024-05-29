@@ -8,7 +8,7 @@
 
 // console.log(mainHeading.innerText);
 
-// textContent hamen wo be dy ga jiss ko hum ny hide kr dia hai
+// textContent hamen wo be dy ga jiss ko hum ny hide kr dia hai webpage sy
 
 // mainHeading.textContent = "This is something else";
 // console.log(mainHeading.textContent);

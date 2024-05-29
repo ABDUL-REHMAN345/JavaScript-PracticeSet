@@ -23,7 +23,7 @@
 //     navItem.style.fontWeight = "bold";
 // }
 
-// navItems = Array.from(navItems);
+// navItems = Array.from(navItems); /**{"Array.from()" method Array ma convert krta hai} */
 // console.log(Array.isArray(navItems));
 // navItems.forEach((navItem)=>{
 //     navItem.style.backgroundColor = "#fff";

@@ -3,7 +3,7 @@ const obj1 = {
     key2: "value2"
 }
 
-// __proto__
+// __proto__ yeh aik khalli "object/{}" dy ai hai r reference set kr rai hai object ka...
 
 // offical ecmascript documentation 
 

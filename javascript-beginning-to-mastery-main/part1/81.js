@@ -16,7 +16,7 @@ function hello(){
 
 // you can add your own properties 
 // hello.myOwnProperty = "very unique value";
-// console.log(hello.myOwnProperty);//function ko ap object ki trah treat kr skty hai funxtion be object ki trah hotta hain:
+// console.log(hello.myOwnProperty);//function ko ap object ki trah treat kr skty hai function be object ki trah hotta hain:
 
 // name property ---> tells function name;
 

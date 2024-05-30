@@ -17,4 +17,4 @@
 // console.log(hello.prototype);
 
 
-// iss ka koi use ni hai actual ma bs jo phella jessy prototype smja tha woi hai:==>> thoori dair ma hum khud ka data structure bnahen gy tho is ki btt kren gy
+// iss ka koi use ni hai actual ma bs jo phella jessy prototype smja tha woi hai:==>> thoori dair ma hum khud ka array jessa data structure bnahen gy tho is ki btt kren gy

@@ -7,7 +7,7 @@
 // // official ecmascript document
 // [[prototype]]
 
-// constructor function => yeh hamara lye "object" construct kr rahha hai neecha dekh skty hai use1,user2,user3.... Yeh be keh skty ka yeh prototype inheritance perform kr rahy hai "new" keyword....
+// constructor function => yeh hamara lye "object" construct kr rahha hai neecha dekh skty hai use1,user2,user3.... Yeh be keh skty ka yeh prototype inheritance perform kr rahy hai "new" keyword or "prototype" ki help sy....
 
 // function CreateUser(firstName, lastName, email, age, address){
 //     this.firstName = firstName;

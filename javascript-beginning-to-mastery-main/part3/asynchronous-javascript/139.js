@@ -30,6 +30,6 @@
 
 // we have 3 most common ways to create and send request to server
 
-// 1.) xmlHTTPRequest (old way of doing)=> Iss ko hum XHR be khetty hain
+// 1.) xmlHTTPRequest (old way of doing)=> Iss ko hum "XHR" be khetty hain
 // 2.) fetch API (new way of doing)
 // 3.) axios (this is third party library)

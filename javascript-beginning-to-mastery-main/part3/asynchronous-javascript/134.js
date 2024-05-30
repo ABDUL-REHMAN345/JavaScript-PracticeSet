@@ -3,7 +3,8 @@ console.log("script start");
 const bucket = ['coffee', 'chips','vegetables','salt','rice'];
 
 
-// promise ki bracket ka andar jo parameters hai resolve and reject ka inna hum (Executor Function) bollta hai
+// promise ki bracket ka andar jo parameters hai resolve and reject ka inna hum (Executor Function) bollta hai yeh execute kren gy hamare promise ko
+
 const friedRicePromise = new Promise((resolve,reject)=>{
     if(bucket.includes("vegetables")&& bucket.includes("salt") && bucket.includes("rice")){
         resolve({value:"friedrice"});

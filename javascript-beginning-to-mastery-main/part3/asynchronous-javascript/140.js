@@ -10,7 +10,7 @@ const xhr = new XMLHttpRequest();
 // step1
 // console.log(xhr.readyState); => 0 milla ga
 
-xhr.open("GET", URL);
+xhr.open("GET", URL); /**yeh km asynchrounous he ho ga browser yeh km krey ga */
 
 // console.log(xhr.readyState); => 1 milla ga
 

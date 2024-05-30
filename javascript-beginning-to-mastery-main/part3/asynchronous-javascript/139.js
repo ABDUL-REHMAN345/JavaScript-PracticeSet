@@ -1,6 +1,6 @@
 // BASIC THEORY 
 
-// AJAX : asynchronous javascript and XML(eXtensible Markup Language)
+// AJAX : asynchronous javascript and XML(eXtensible Markup Language)  /** XML is a data format is format ko ab hum use ni krty */
 
 // HTTP request =>(Hyper Text Transfer Protocol)=> Client or Server ka beach ma baat krna ka Communicate krna ka tareeqa hai 
 

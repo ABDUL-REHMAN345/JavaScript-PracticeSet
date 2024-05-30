@@ -22,6 +22,7 @@ const person = {
     age: 7,
     1:"one"
 }
+
 // // console.log(person.firstName);
 // // console.log(person["firstName"]);
 // console.log(person[1]);
@@ -84,3 +85,4 @@ const newArray = Array.from(myMap.values());
 
 
 console.log(newArray);
+

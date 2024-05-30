@@ -11,7 +11,7 @@ fetch(URL,{
     // .then(response=>{
     //     console.log(response); 
 
-    //     console.log(response.json()); => json method be promise return krey ga... => ydd rakhna jahan responce likha hai fuction jo bnayeh hai wahan kch be dall skty ho like abc,xyz,hello everything....
+    //     console.log(response.json()); => json method be promise return krey ga... => ydd rakhna jahan "responce" likha hai fuction jo bnayeh hai wahan kch be dall skty ho like abc,xyz,hello everything....
 
     // })
 

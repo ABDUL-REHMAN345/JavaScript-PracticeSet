@@ -10,7 +10,7 @@ xhr.onload = () => {
         const data = JSON.parse(xhr.response);
         console.log(data);
 
-        // Purra dta ma sy matlb purra object ma sy hamen object 3 ki -> "id" chahia tho hum yeh km kren gy neecha walli line ka:
+        // Purra data ma sy matlb purra object ma sy hamen object 3 ki -> "id" chahia tho hum yeh km kren gy neecha walli line ka:
 
         const id = data[3].id;
         // console.log(id);

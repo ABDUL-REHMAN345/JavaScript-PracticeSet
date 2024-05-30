@@ -3,7 +3,7 @@ const obj1 = {
     key2: "value2"
 }
 
-// __proto__ yeh aik khalli "object/{}" dy ai hai r reference set kr rai hai object ka...
+// __proto__ yeh aik khalli "object/{}" dy rai hai r reference set kr rai hai object ka...
 
 // offical ecmascript documentation 
 
@@ -15,7 +15,7 @@ const obj1 = {
 
 // prototype    
 
-const obj2 = Object.create(obj1); // {}
+const obj2 = Object.create(obj1); // {}  => Object2 ki "proto" ko Object1 ka sath set kr rahha hai Object.create() method...
 // there is one more way to create empty object
 // const obj2={};
 obj2.key3 = "value3";

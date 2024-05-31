@@ -5,4 +5,4 @@ var myFunction = function(){
     console.log("this is my function");
 }
 
-console.log(myFunction);
+// console.log(myFunction);

@@ -1,3 +1,4 @@
+// call,apply,bind methods...
 
 // function hello(){
 //     console.log("hello world");

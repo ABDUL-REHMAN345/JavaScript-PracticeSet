@@ -106,6 +106,8 @@
 // userNames.sort();
 // console.log(userNames);
 
+
+// sort method original array ko change krta hai...
 const numbers = [5,9,1200, 410, 3000];
 // numbers.sort((a,b)=>{
 //     return b-a;
@@ -113,6 +115,7 @@ const numbers = [5,9,1200, 410, 3000];
 // // numbers.sort((a,b)=>a-b);
 // console.log(numbers);
 
+// Assending sort krna ka lye "a-b" and desending sort krna ka lye "b-a;"...
 
 // 1200,410 
 // a-b ---> 790

@@ -15,6 +15,8 @@
 // numbers.add(6);
 // numbers.add({key1:"value1"});
 // numbers.add(items);
+// numbers.add();
+// console.log(numbers);
 // if(numbers.has(1)){
 //     console.log("1 is present")
 // }else{

@@ -25,7 +25,7 @@ const users = [
 // const ans=users.find((myarr)=>{
 //     return myarr.userId===2;
 // });
-// console.log(ans)
+// console.log(ans);
 
 
 // const myUser = users.find((user)=>user.userName.length===3);
